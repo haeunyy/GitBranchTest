@@ -8,7 +8,8 @@
 </head>
 <body>
 	<h1 align="center">git branch test 프로젝트입니다. </h1>
-	<h3> </h3>
+	
+	<button onclick="location.href-'menu1'">첫번째 메뉴</button>
 
 </body>
 </html>
